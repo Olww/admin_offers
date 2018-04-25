@@ -30,4 +30,6 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  dashboard_welcome:
+    welcome: "Welcome to Admin offers. Go to the 'Offers' tab to see offers table."
+    call_to_action: "And not a word about pointers."
